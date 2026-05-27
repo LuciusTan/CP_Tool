@@ -1,8 +1,8 @@
 {
-  "version": "1.2.4",
-  "displayVersion": "V1.2.4",
-  "notesTitle": "Latest version V1.2.4:",
-  "notes": "Latest version V1.2.4:\n1. Fixed the update notes panel title display.\n2. Rendered update notes as a numbered list in the latest app.\n3. Increased the update notes panel height for better readability.",
+  "version": "1.3.0",
+  "displayVersion": "V1.3",
+  "notesTitle": "Latest version V1.3:",
+  "notes": "1. Updated the Excel template for batch export, created the PageList sheet, and updated the sheet naming logic.\n2. Added a documentation entry point so users can open docs directly from the home page.\n3. Improved the issue reporting feature.\n4. Added basic style updates and fixes.\n5. Fixed several bugs.",
   "downloadUrl": "https://skydrive3m-my.sharepoint.com/:f:/g/personal/a8fwjzz_mmm_com/IgBtfOrL9UaqR6AgS50nW86MAcXOiZHmB-JJZvECkn1Waks?e=VLOInM",
   "downloads": {
     "mac": "https://skydrive3m-my.sharepoint.com/:f:/g/personal/a8fwjzz_mmm_com/IgBtfOrL9UaqR6AgS50nW86MAcXOiZHmB-JJZvECkn1Waks?e=VLOInM",
