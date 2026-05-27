@@ -2,11 +2,7 @@
   "version": "1.2.3",
   "displayVersion": "V1.2.3",
   "notesTitle": "Latest version V1.2.3:",
-  "notes": [
-    "Expanded the update notes panel and changed release notes into a numbered list for easier reading.",
-    "Added a right-click edit menu with Cut, Copy, and Paste across the app.",
-    "Added a home-page feedback form that opens a prefilled email report for issue submission."
-  ],
+  "notes": "Latest version V1.2.3:\n1. Expanded the update notes panel and changed release notes into a numbered list for easier reading.\n2. Added a right-click edit menu with Cut, Copy, and Paste across the app.\n3. Added a home-page feedback form that opens a prefilled email report for issue submission.",
   "downloadUrl": "https://skydrive3m-my.sharepoint.com/:f:/g/personal/a8fwjzz_mmm_com/IgBtfOrL9UaqR6AgS50nW86MAcXOiZHmB-JJZvECkn1Waks?e=VLOInM",
   "downloads": {
     "mac": "https://skydrive3m-my.sharepoint.com/:f:/g/personal/a8fwjzz_mmm_com/IgBtfOrL9UaqR6AgS50nW86MAcXOiZHmB-JJZvECkn1Waks?e=VLOInM",
