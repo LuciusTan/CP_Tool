@@ -1,7 +1,7 @@
 {
-  "version": "1.2.1",
-  "displayVersion": "V1.2.1",
-  "notes": "Current release: latest-version status display, update notes visibility, and SharePoint update link opened in the system browser.",
+  "version": "1.2.2",
+  "displayVersion": "V1.2.2",
+  "notes": "Current release: smoother home-page version status display and reduced update notice flicker when returning to Home.",
   "downloadUrl": "https://skydrive3m-my.sharepoint.com/:f:/g/personal/a8fwjzz_mmm_com/IgBtfOrL9UaqR6AgS50nW86MAcXOiZHmB-JJZvECkn1Waks?e=VLOInM",
   "downloads": {
     "mac": "https://skydrive3m-my.sharepoint.com/:f:/g/personal/a8fwjzz_mmm_com/IgBtfOrL9UaqR6AgS50nW86MAcXOiZHmB-JJZvECkn1Waks?e=VLOInM",
