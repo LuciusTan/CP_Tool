@@ -1,8 +1,8 @@
 {
-  "version": "1.4.0",
-  "displayVersion": "V1.4.0",
-  "notesTitle": "Latest version V1.4.0:",
-  "notes": "1. Fixed rC-54-Twisties preview highlighting for paragraphs that contain one or more links.\n2. Improved Twisties panel matching so paragraph rows highlight the full text block while LinkText rows still highlight the link itself.",
+  "version": "1.4.1",
+  "displayVersion": "V1.4.1",
+  "notesTitle": "Latest version V1.4.1:",
+  "notes": "1. Refined rC-54-Twisties paragraph highlighting so selected body text no longer highlights the tab title.\n2. Kept LinkText rows highlighting only the matching link.",
   "downloadUrl": "https://skydrive3m-my.sharepoint.com/:f:/g/personal/a8fwjzz_mmm_com/IgBtfOrL9UaqR6AgS50nW86MAcXOiZHmB-JJZvECkn1Waks?e=VLOInM",
   "downloads": {
     "mac": "https://skydrive3m-my.sharepoint.com/:f:/g/personal/a8fwjzz_mmm_com/IgBtfOrL9UaqR6AgS50nW86MAcXOiZHmB-JJZvECkn1Waks?e=VLOInM",
